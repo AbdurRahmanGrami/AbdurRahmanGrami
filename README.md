@@ -79,7 +79,7 @@ Object-oriented C++ application simulating a cafe management system — orders, 
 
 I'm actively looking for opportunities in **AI Engineering**, **Computer Vision**, and **LLM development**. Feel free to reach out!
 
-- 💼 [LinkedIn](www.linkedin.com/in/abdurrahmangrami) ← *(add your LinkedIn URL)*
+- 💼 [LinkedIn](www.linkedin.com/in/abdurrahmangrami)
 - 📧 syedabdurrahman03#gmail.com
 
 ---
