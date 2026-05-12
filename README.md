@@ -83,5 +83,3 @@ I'm actively looking for opportunities in **AI Engineering**, **Computer Vision*
 - 📧 syedabdurrahman03#gmail.com
 
 ---
-
-*"The goal is to turn data into information, and information into insight."*
