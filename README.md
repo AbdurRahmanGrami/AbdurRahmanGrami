@@ -71,7 +71,8 @@ Object-oriented C++ application simulating a cafe management system — orders, 
 
 ## 📈 GitHub Stats
 
-![Abdur Rahman's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurRahmanGrami&show_icons=true))
+![Abdur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahmanGrami\&show_icons=true)
+
 
 ---
 
