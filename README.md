@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BSc in Data Science (graduating 2026)
+- 🎓 BSc in Data Science 
 - 🤖 Passionate about **AI Engineering** — from LLM pipelines to deep learning for medical imaging
 - 🔭 Currently open to roles in **AI Engineering**, **Computer Vision**, and **LLM/NLP**
 - 🌍 Based in Pakistan
@@ -71,7 +71,7 @@ Object-oriented C++ application simulating a cafe management system — orders, 
 
 ## 📈 GitHub Stats
 
-![Abdur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdurRahmanGrami&show_icons=true&theme=default&hide_border=true)
+![Abdur Rahman's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurRahmanGrami&show_icons=true))
 
 ---
 
